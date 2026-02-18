@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# About me
+I'm a TI student in IES La Sènia and i have practices in IES Benetússer
 <!--
 **izandhh15/izandhh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
