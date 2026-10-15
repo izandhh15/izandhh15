@@ -6,8 +6,8 @@ I'm a TI student in IES La Sènia and i have practices in IES Benetússer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently colaborate on Da Igual La Pelota & OneFootball (sports news agency)
-- 🌱 I’m currently learning in IES La Senia and IES Maria Carbonell i Sanchez
+- 🔭 I’m currently work in my sports news agency El Nostre Equip (you can find the Open Source's app)
+- 🌱 I’m currently learning in IES La Senia
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about
